@@ -13,4 +13,11 @@ Models utilized:
 - "Linear Discriminant Analysis": LinearDiscriminantAnalysis()
 
 Files:
+- IL6_Peptides_Analysis.ipynb: Jupyter notebook
+- Data.csv: dataset used
+    columns: Target Variable + Amino Acids;
+    Values in cells represent amino acid percentage composition;
+
+Jehad Yasin, August 2023
+Amman, Jordan
   
