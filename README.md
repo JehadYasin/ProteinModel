@@ -12,6 +12,12 @@ Models utilized:
 - "Logistic Regression": LogisticRegression(random_state=42),
 - "Linear Discriminant Analysis": LinearDiscriminantAnalysis()
 
+Performance metrics:
+    - Mean accuracy score and standard deviation upon 10-fold cross-validation;
+    - AUROC (Area Under Reciever Operator Characteristic Curve)
+
+Highest performace shown for Random Forest Model.
+
 Files:
 - IL6_Peptides_Analysis.ipynb: Jupyter notebook
 - Data.csv: dataset used
