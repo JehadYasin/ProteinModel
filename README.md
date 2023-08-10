@@ -28,4 +28,6 @@ based on their amino acid composition.*
 *Jehad Yasin, August 2023*
 
 *Amman, Jordan*
+
+Idea from: Decode Life, India
   
