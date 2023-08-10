@@ -1,7 +1,7 @@
 # ProteinModel
 
 *Comparing various classification models in terms of their performace in predicting whether proteins are IL6-inducing proteins or not ("Pos" or "Neg")
-based on their amino acid compisition.*
+based on their amino acid composition.*
 
 **Models utilized**
 - "KNN": KNeighborsClassifier(),
