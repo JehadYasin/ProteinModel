@@ -3,7 +3,7 @@
 Comparing various classification models in terms of their performace in predicting whether proteins are IL6-inducing proteins or not ("Pos" or "Neg")
 based on their amino acid compisition. 
 
-*Models utilized:*
+**Models utilized:**
 - "KNN": KNeighborsClassifier(),
 - "Naive Bayes": GaussianNB(),
 - "SVM": SVC(probability=True, kernel='linear'),
