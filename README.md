@@ -13,6 +13,7 @@ based on their amino acid compisition.*
 - "Linear Discriminant Analysis": LinearDiscriminantAnalysis()
 
 **Performance metrics**
+
     - Mean accuracy score and standard deviation upon 10-fold cross-validation;
     - AUROC (Area Under Reciever Operator Characteristic Curve)
 
@@ -25,5 +26,6 @@ based on their amino acid compisition.*
     Values in cells represent amino acid percentage composition;
 
 *Jehad Yasin, August 2023*
+
 *Amman, Jordan*
   
