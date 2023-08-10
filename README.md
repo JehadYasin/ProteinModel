@@ -6,10 +6,10 @@ based on their amino acid compisition.*
 **Models utilized**
 - "KNN": KNeighborsClassifier(),
 - "Naive Bayes": GaussianNB(),
-- "SVM": SVC(probability=True, kernel='linear'),
-- "Decision Tree": DecisionTreeClassifier(random_state=42),
-- "Random Forest": RandomForestClassifier(random_state=42),
-- "Logistic Regression": LogisticRegression(random_state=42),
+- "SVM": SVC()
+- "Decision Tree": DecisionTreeClassifier()
+- "Random Forest": RandomForestClassifier()
+- "Logistic Regression": LogisticRegression()
 - "Linear Discriminant Analysis": LinearDiscriminantAnalysis()
 
 **Performance metrics**
